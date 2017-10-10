@@ -1,22 +1,16 @@
 <!doctype html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <title>Stack Multipurpose HTML Template</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Site Description Here">
-        <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="css/stack-interface.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="css/socicon.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="css/lightbox.min.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="css/flickity.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="css/iconsmind.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="css/jquery.steps.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="css/theme.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="css/custom.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans:200,300,400,400i,500,600,700%7CMerriweather:300,300i" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    </head>
+    <?php
+        // Define variables for SEO
+        $pageTitle = 'Finflux | Banking Made Easy';
+        $pageDescription = 'Finflux Description';
+        $pageCanonical = '/';
+        // We don't want the search engines to see our website just yet
+        // $pageRobots = 'all';
+         
+        // Include header file
+        include('./common/header.php');
+    ?>
     <body class=" ">
         <a id="start"></a>
         <?php include("./common/navbar.php"); ?>
