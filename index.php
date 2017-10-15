@@ -3,7 +3,7 @@
     <?php
         // Define variables for SEO
         $pageTitle = 'Finflux | Banking Made Easy';
-        $pageDescription = 'Finflux Description';
+        $pageDescription = "Finflux is the 'one box' digital financial solution for all the needs of banks and financial institutions.";
         $pageCanonical = '/';
         // We don't want the search engines to see our website just yet
         // $pageRobots = 'all';
@@ -19,27 +19,19 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-                            <h1>Build amazing websites fast.</h1>
-                            <p class="lead">
-                                A comprehensive guide to creating fast, responsive websites &mdash; including
-                                <br class="hidden-xs hidden-sm" /> input from 5 veteran designers and developers
+                            <h1><strong>Banking complexity, Solved.</strong></h1>
+                            <p>
+                                SME FINANCE | P2P LENDING | MICROFINANCE | ALTERNATIVE LENDING
                             </p>
-                            <form action="//mrare.us8.list-manage.com/subscribe/post?u=77142ece814d3cff52058a51f&amp;id=f300c9cce8" data-success="Thanks for signing up.  Please check your inbox for a confirmation email." data-error="Please provide your name and email address and agree to the terms.">
-                                <div class="col-sm-4">
-                                    <input class="validate-required" type="text" name="NAME" placeholder="Your Name" />
-                                </div>
+                            <form action="//mrare.us8.list-manage.com/subscribe/post?u=77142ece814d3cff52058a51f&amp;id=f300c9cce8" data-success="Thanks for signing up.  Please check your inbox for a confirmation email." data-error="Please provide your email address">
+                                <div class="col-sm-2"></div>
                                 <div class="col-sm-4">
                                     <input class="validate-required validate-email" type="email" name="EMAIL" placeholder="Email Address" />
                                 </div>
                                 <div class="col-sm-4">
-                                    <button type="submit" class="btn btn--primary type--uppercase">Get The Ebook</button>
+                                    <button type="submit" class="btn btn--primary type--uppercase">Request Demo</button>
                                 </div>
-                                <div class="col-sm-12">
-                                    <input class="validate-required" type="checkbox" name="group[13737][1]" />
-                                    <span>I have read and agree to the
-                                        <a href="#">terms and conditions</a>
-                                    </span>
-                                </div>
+                                <div class="col-sm-2"></div>
                                 <div style="position: absolute; left: -5000px;" aria-hidden="true">
                                     <input type="text" name="b_77142ece814d3cff52058a51f_f300c9cce8" tabindex="-1" value="">
                                 </div>
@@ -57,13 +49,13 @@
                             <div class="testimonial testimonial-2">
                                 <div class="testimonial__body boxed boxed--border bg--secondary">
                                     <p class="lead">
-                                        &ldquo;In all my years in design I haven't seen a more consistent and impressive e-book. We're in magnum opus territory here people. Make sure you grab a copy and stop wasting time doing things the old way &mdash; I guarantee, you won't regret it.&rdquo;
+                                        &ldquo;For many years, technology had been a barrier to our rapid expansion plans. With Finflux, technology is now our primary business accelerator.&rdquo;
                                     </p>
                                 </div>
                                 <div class="testimonial__image">
-                                    <img alt="Image" src="img/avatar-round-4.png" />
-                                    <h5>Robert S.</h5>
-                                    <span>Brisbane, AU</span>
+                                    <img alt="Samit Shetty" src="img/samit_shetty.gif" />
+                                    <h5>Samit Shetty</h5>
+                                    <span>Director, Chaitanya India Fin Credit Pvt Ltd</span>
                                 </div>
                             </div>
                         </div>
@@ -79,9 +71,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-                            <h2>All the tools you'll need</h2>
+                            <h2>All the solutions you'll need</h2>
                             <p class="lead">
-                                Whether you’re building a welcome mat for your SaaS or a clean, corporate portfolio, Stack has your design needs covered.
+                                Whether you’re building a Fintech, P2P lending platform, SME finance, retail banking or a microfinance, Finflux has your requirments covered.
                             </p>
                         </div>
                     </div>
@@ -235,24 +227,6 @@
         <?php include("./common/footer.php"); ?>
         </div>
         <!--<div class="loader"></div>-->
-        <a class="back-to-top inner-link" href="#start" data-scroll-class="100vh:active">
-            <i class="stack-interface stack-up-open-big"></i>
-        </a>
-        <script src="js/jquery-3.1.1.min.js"></script>
-        <script src="js/flickity.min.js"></script>
-        <script src="js/easypiechart.min.js"></script>
-        <script src="js/parallax.js"></script>
-        <script src="js/typed.min.js"></script>
-        <script src="js/datepicker.js"></script>
-        <script src="js/isotope.min.js"></script>
-        <script src="js/ytplayer.min.js"></script>
-        <script src="js/lightbox.min.js"></script>
-        <script src="js/granim.min.js"></script>
-        <script src="js/jquery.steps.min.js"></script>
-        <script src="js/countdown.min.js"></script>
-        <script src="js/twitterfetcher.min.js"></script>
-        <script src="js/spectragram.min.js"></script>
-        <script src="js/smooth-scroll.min.js"></script>
-        <script src="js/scripts.js"></script>
+        <?php include("./common/script.php"); ?>
     </body>
 </html>

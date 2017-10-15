@@ -51,8 +51,7 @@
                                 </ul>
                             </div>
                             <div>
-                                <span class="type--fine-print">Made in Melbourne</span>
-                                <img alt="Image" class="flag" src="img/flag-2.png" />
+                                <span class="type--fine-print">Made with Love</span>
                             </div>
                             <div>
                                 <span class="type--fine-print">&copy;
@@ -66,3 +65,7 @@
                 </div>
                 <!--end of container-->
             </footer>
+
+        <a class="back-to-top inner-link" href="#start" data-scroll-class="100vh:active">
+            <i class="stack-interface stack-up-open-big"></i>
+        </a>

@@ -17,6 +17,7 @@
             }
         ?>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon" href="img/favicon.png">
         <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
         <link href="css/stack-interface.css" rel="stylesheet" type="text/css" media="all" />
         <link href="css/socicon.css" rel="stylesheet" type="text/css" media="all" />
