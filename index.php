@@ -67,114 +67,73 @@
                 </div>
                 <!--end of container-->
             </section>
-            <section class="text-center bg--secondary">
+            <section>
                 <div class="container">
                     <div class="row">
-                        <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-                            <h2>All the solutions you'll need</h2>
+                        <div class="col-sm-6">
+                            <div class="feature feature-5 boxed boxed--lg boxed--border">
+                                <i class="icon icon-Pantone icon--lg"></i>
+                                <div class="feature__body">
+                                    <h5>Automated Lending</h5>
+                                    <p>
+                                        Developing automated, paperless systems that simplify loan processes. Building platforms that promote faster, more informed decision-making.
+                                    </p>
+                                    <a href="#">Learn More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="feature feature-5 boxed boxed--lg boxed--border">
+                                <i class="icon icon-Fingerprint icon--lg"></i>
+                                <div class="feature__body">
+                                    <h5>API Enablement for Digital Banks</h5>
+                                    <p>
+                                        Fintech startups and cutting-edge banks have started to disrupt the business of traditional banks. Enable digital business models, new revenue streams.
+                                    </p>
+                                    <a href="#">Learn More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="feature feature--featured feature-5 boxed boxed--lg boxed--border">
+                                <span class="label">Free</span>
+                                <i class="icon icon-Duplicate-Window icon--lg"></i>
+                                <div class="feature__body">
+                                    <h5>Data Analytics</h5>
+                                    <p>
+                                        Business Intelligence services assess your business landscape and create paths to actions. Data warehouse maintenance services reduce risk and facilitate compliance.
+                                    </p>
+                                    <a href="#">Learn More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="feature feature-5 boxed boxed--lg boxed--border">
+                                <i class="icon icon-Life-Safer icon--lg"></i>
+                                <div class="feature__body">
+                                    <h5>Mobility</h5>
+                                    <p>
+                                        Mobility is revolutionizing banking and financial services. Shorten decision turnaround times and improve productivity.
+                                    </p>
+                                    <a href="#">Learn More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--end of row-->
+                </div>
+                <!--end of container-->
+            </section>
+
+            <section class="text-center">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h2>The trusted partner to the best</h2>
                             <p class="lead">
-                                Whether you’re building a Fintech, P2P lending platform, SME finance, retail banking or a microfinance, Finflux has your requirments covered.
+                                Finflux is used by <br> 
+                                Award wining Microfinance institutes | Large financial institutes | Lending Fintechs | Business correspondents
                             </p>
-                        </div>
-                    </div>
-                    <!--end of row-->
-                </div>
-                <!--end of container-->
-            </section>
-            <section class="bg--secondary">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-4">
-                            <div class="feature feature-2 boxed boxed--border">
-                                <i class="icon icon-Clock-Back color--primary"></i>
-                                <div class="feature__body">
-                                    <p>
-                                        Save time with a multitude of styled components designed to showcase your content
-                                    </p>
-                                </div>
-                            </div>
-                            <!--end feature-->
-                        </div>
-                        <div class="col-sm-4">
-                            <div class="feature feature-2 boxed boxed--border">
-                                <i class="icon icon-Duplicate-Window color--primary"></i>
-                                <div class="feature__body">
-                                    <p>
-                                        Construct mockups or production-ready pages in-browser with Variant Page Builder
-                                    </p>
-                                </div>
-                            </div>
-                            <!--end feature-->
-                        </div>
-                        <div class="col-sm-4">
-                            <div class="feature feature-2 boxed boxed--border">
-                                <i class="icon icon-Life-Jacket color--primary"></i>
-                                <div class="feature__body">
-                                    <p>
-                                        Take comfort in 6 months included support with a dedicated support forum
-                                    </p>
-                                </div>
-                            </div>
-                            <!--end feature-->
-                        </div>
-                        <div class="col-sm-4">
-                            <div class="feature feature-2 boxed boxed--border">
-                                <i class="icon icon-Pen color--primary"></i>
-                                <div class="feature__body">
-                                    <p>
-                                        Save time with a multitude of styled components designed to showcase your content
-                                    </p>
-                                </div>
-                            </div>
-                            <!--end feature-->
-                        </div>
-                        <div class="col-sm-4">
-                            <div class="feature feature-2 boxed boxed--border">
-                                <i class="icon icon-Pantone color--primary"></i>
-                                <div class="feature__body">
-                                    <p>
-                                        Construct mockups or production-ready pages in-browser with Variant Page Builder
-                                    </p>
-                                </div>
-                            </div>
-                            <!--end feature-->
-                        </div>
-                        <div class="col-sm-4">
-                            <div class="feature feature-2 boxed boxed--border">
-                                <i class="icon icon-Fingerprint color--primary"></i>
-                                <div class="feature__body">
-                                    <p>
-                                        Take comfort in 6 months included support with a dedicated support forum
-                                    </p>
-                                </div>
-                            </div>
-                            <!--end feature-->
-                        </div>
-                    </div>
-                    <!--end of row-->
-                </div>
-                <!--end of container-->
-            </section>
-            <section class="switchable feature-large bg--primary">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-6 col-xs-12">
-                            <div class="video-cover border--round box-shadow-wide">
-                                <div class="background-image-holder">
-                                    <img alt="image" src="img/landing-8.jpg" />
-                                </div>
-                                <div class="video-play-icon"></div>
-                                <iframe data-src="https://www.youtube.com/embed/6p45ooZOOPo?autoplay=1" allowfullscreen="allowfullscreen"></iframe>
-                            </div>
-                            <!--end video cover-->
-                        </div>
-                        <div class="col-sm-6 col-md-5">
-                            <div class="mt--2">
-                                <h2>The perfect resource for modern startups</h2>
-                                <p class="lead">
-                                    Launching an attractive and scalable website quickly and affordably is important for modern startups &mdash; Stack offers massive value without looking 'bargain-bin'.
-                                </p>
-                            </div>
                         </div>
                     </div>
                     <!--end of row-->
@@ -184,46 +143,96 @@
             <section class="text-center">
                 <div class="container">
                     <div class="row">
-                        <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-                            <h2>Start building beautiful websites that convert
-                                <br class="hidden-xs hidden-sm" /> visitors into customers.</h2>
-                            <form action="//mrare.us8.list-manage.com/subscribe/post?u=77142ece814d3cff52058a51f&amp;id=f300c9cce8" data-success="Thanks for signing up.  Please check your inbox for a confirmation email." data-error="Please provide your name and email address and agree to the terms.">
-                                <div class="col-sm-4">
-                                    <input class="validate-required" type="text" name="NAME" placeholder="Your Name" />
-                                </div>
-                                <div class="col-sm-4">
-                                    <input class="validate-required validate-email" type="email" name="EMAIL" placeholder="Email Address" />
-                                </div>
-                                <div class="col-sm-4">
-                                    <button type="submit" class="btn btn--primary type--uppercase">Get The Ebook</button>
-                                </div>
-                                <div class="col-sm-12">
-                                    <input class="validate-required" type="checkbox" name="group[13737][1]" />
-                                    <span>I have read and agree to the
-                                        <a href="#">terms and conditions</a>
-                                    </span>
-                                </div>
-                                <div style="position: absolute; left: -5000px;" aria-hidden="true">
-                                    <input type="text" name="b_77142ece814d3cff52058a51f_f300c9cce8" tabindex="-1" value="">
-                                </div>
-                            </form>
+                        <div class="col-sm-12">
+                            <ul class="list-inline list-inline--images">
+                                <li>
+                                    <img alt="NABARD" src="img/clients/nabard.png" />
+                                </li>
+                                <li>
+                                    <img alt="INDIFI" src="img/clients/indifi.png" />
+                                </li>
+                                <li>
+                                    <img alt="CashCredit" src="img/clients/cashcredit.png" />
+                                </li>
+                                <li>
+                                    <img alt="NabKisan" src="img/clients/nabkisan.png" />
+                                </li>
+                                <li>
+                                    <img alt="NURU" src="img/clients/nuru.png" />
+                                </li>
+                            </ul>
                         </div>
                     </div>
                     <!--end of row-->
                 </div>
                 <!--end of container-->
             </section>
-            <section class="text-center unpad--bottom">
+            <section class=" ">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-12">
-                            <img alt="Image" src="img/ebook-2.png" />
+                            <div class="slider slider--inline-arrows" data-arrows="true">
+                                <ul class="slides">
+                                    <li>
+                                        <div class="row">
+                                            <div class="testimonial">
+                                                <div class="col-md-2 col-md-offset-1 col-sm-4 col-xs-6 text-center">
+                                                    <img class="testimonial__image" alt="Image" src="img/avatar-round-1.png" />
+                                                </div>
+                                                <div class="col-md-7 col-md-offset-1 col-sm-8 col-xs-12">
+                                                    <span class="h3">&ldquo;We’ve been using Stack to prototype designs quickly and efficiently. Needless to say we’re hugely impressed by the style and value.&rdquo;
+                                                    </span>
+                                                    <h5>Maguerite Holland</h5>
+                                                    <span>Interface Designer &mdash; Yoke</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--end of row-->
+                                    </li>
+                                    <li>
+                                        <div class="row">
+                                            <div class="testimonial">
+                                                <div class="col-md-2 col-md-offset-1 col-sm-4 col-xs-6 text-center">
+                                                    <img class="testimonial__image" alt="Image" src="img/avatar-round-4.png" />
+                                                </div>
+                                                <div class="col-md-7 col-md-offset-1 col-sm-8 col-xs-12">
+                                                    <span class="h3">&ldquo;I've been using Medium Rare's templates for a couple of years now and Stack is without a doubt their best work yet. It's fast, performant and absolutely stunning.&rdquo;
+                                                    </span>
+                                                    <h5>Lucas Nguyen</h5>
+                                                    <span>Freelance Designer</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--end of row-->
+                                    </li>
+                                    <li>
+                                        <div class="row">
+                                            <div class="testimonial">
+                                                <div class="col-md-2 col-md-offset-1 col-sm-4 col-xs-6 text-center">
+                                                    <img class="testimonial__image" alt="Image" src="img/avatar-round-3.png" />
+                                                </div>
+                                                <div class="col-md-7 col-md-offset-1 col-sm-8 col-xs-12">
+                                                    <span class="h3">&ldquo;Variant has been a massive plus for my workflow &mdash; I can now get live mockups out in a matter of hours, my clients really love it.&rdquo;
+                                                    </span>
+                                                    <h5>Rob Vasquez</h5>
+                                                    <span>Interface Designer &mdash; Yoke</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--end of row-->
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
                     <!--end of row-->
                 </div>
                 <!--end of container-->
             </section>
+
+
+
+
         <?php include("./common/footer.php"); ?>
         </div>
         <!--<div class="loader"></div>-->
