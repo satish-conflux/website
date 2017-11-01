@@ -96,12 +96,12 @@
                         </div>
                         <div class="col-sm-6">
                             <div class="feature feature--featured feature-5 boxed boxed--lg boxed--border">
-                                <span class="label">Free</span>
+                                <span class="label">Demo</span>
                                 <i class="icon icon-Duplicate-Window icon--lg"></i>
                                 <div class="feature__body">
                                     <h5>Data Analytics</h5>
                                     <p>
-                                        Business Intelligence services assess your business landscape and create paths to actions. Data warehouse maintenance services reduce risk and facilitate compliance.
+                                        Business Intelligence assess your business landscape and create paths to actions. On time Alert services reduce risk and facilitate compliance.
                                     </p>
                                     <a href="#">Learn More</a>
                                 </div>
@@ -177,13 +177,13 @@
                                         <div class="row">
                                             <div class="testimonial">
                                                 <div class="col-md-2 col-md-offset-1 col-sm-4 col-xs-6 text-center">
-                                                    <img class="testimonial__image" alt="Image" src="img/avatar-round-1.png" />
+                                                    <img class="testimonial__image" alt="Image" src="img/clients/samit_shetty.jpeg" />
                                                 </div>
                                                 <div class="col-md-7 col-md-offset-1 col-sm-8 col-xs-12">
-                                                    <span class="h3">&ldquo;We’ve been using Stack to prototype designs quickly and efficiently. Needless to say we’re hugely impressed by the style and value.&rdquo;
+                                                    <span class="h3">&ldquo;​For many years, technology had been a barrier to our rapid expansion plans. With Finflux, technology is now our primary business accelerator.&rdquo;
                                                     </span>
-                                                    <h5>Maguerite Holland</h5>
-                                                    <span>Interface Designer &mdash; Yoke</span>
+                                                    <h5>Samit Shetty</h5>
+                                                    <span>Director &mdash;  Chaitanya India Fin Credit Pvt. Ltd.</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -193,13 +193,13 @@
                                         <div class="row">
                                             <div class="testimonial">
                                                 <div class="col-md-2 col-md-offset-1 col-sm-4 col-xs-6 text-center">
-                                                    <img class="testimonial__image" alt="Image" src="img/avatar-round-4.png" />
+                                                    <img class="testimonial__image" alt="Image" src="img/clients/ruhiu_john.jpg" />
                                                 </div>
                                                 <div class="col-md-7 col-md-offset-1 col-sm-8 col-xs-12">
-                                                    <span class="h3">&ldquo;I've been using Medium Rare's templates for a couple of years now and Stack is without a doubt their best work yet. It's fast, performant and absolutely stunning.&rdquo;
+                                                    <span class="h3">&ldquo;We moved from a manual system to consolidate varied groups to follow our standardized procedures and reduce reporting delays and efforts by 40%.&rdquo;
                                                     </span>
-                                                    <h5>Lucas Nguyen</h5>
-                                                    <span>Freelance Designer</span>
+                                                    <h5>Ruhiu (Gathogo) John</h5>
+                                                    <span>​ICT Officer &mdash;  Caritas</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -209,13 +209,13 @@
                                         <div class="row">
                                             <div class="testimonial">
                                                 <div class="col-md-2 col-md-offset-1 col-sm-4 col-xs-6 text-center">
-                                                    <img class="testimonial__image" alt="Image" src="img/avatar-round-3.png" />
+                                                    <img class="testimonial__image" alt="Image" src="img/clients/niranjan.jpeg" />
                                                 </div>
                                                 <div class="col-md-7 col-md-offset-1 col-sm-8 col-xs-12">
-                                                    <span class="h3">&ldquo;Variant has been a massive plus for my workflow &mdash; I can now get live mockups out in a matter of hours, my clients really love it.&rdquo;
+                                                    <span class="h3">&ldquo;Using the intuitive process controls in Finflux, we reduced our loan rejection rates from 7.8% to less than 1% and streamlined our process with bankers.&rdquo;
                                                     </span>
-                                                    <h5>Rob Vasquez</h5>
-                                                    <span>Interface Designer &mdash; Yoke</span>
+                                                    <h5>Niranjan Sheelavant</h5>
+                                                    <span>CEO &mdash; Nirantara Fin Access</span>
                                                 </div>
                                             </div>
                                         </div>

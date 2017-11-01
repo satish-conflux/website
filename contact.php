@@ -22,7 +22,7 @@
                         <div class="col-sm-8 col-md-6">
                             <h1>Let's talk about your project</h1>
                             <p class="lead">
-                                Visit us in Melbourne or make contact via the form below to talk more about your project or idea.
+                                Visit us in Bengaluru or make contact via the form below to talk more about your project or idea.
                             </p>
                         </div>
                     </div>
@@ -36,14 +36,14 @@
                         <div class="col-sm-5">
                             <p class="lead">
                                 E:
-                                <a href="#">hello@stack.net</a>
-                                <br /> P: +613 4827 2294
+                                <a href="#">binny@finflux.co</a>
+                                <br /> P: +91 9015 500 500
                             </p>
                             <p class="lead">
                                 Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours on business days.
                             </p>
                             <p class="lead">
-                                We are open from 9am &mdash; 5pm week days.
+                                We are open from 9am &mdash; 7pm week days.
                             </p>
                         </div>
                         <div class="col-sm-6 col-xs-12">
