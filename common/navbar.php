@@ -3,7 +3,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-3 col-sm-2">
-                            <a href="index.html">
+                            <a href="index.php">
                                 <img class="logo logo-dark" alt="logo" src="img/logo-dark.png" />
                                 <img class="logo logo-light" alt="logo" src="img/logo-light.png" />
                             </a>
@@ -24,7 +24,7 @@
                     <div class="row">
                         <div class="col-md-1 col-sm-2 hidden-xs">
                             <div class="bar__module">
-                                <a href="index.html">
+                                <a href="index.php">
                                     <img class="logo logo-dark" alt="logo" src="img/logo-dark.png" />
                                     <img class="logo logo-light" alt="logo" src="img/logo-light.png" />
                                 </a>
@@ -35,7 +35,7 @@
                             <div class="bar__module">
                                 <ul class="menu-horizontal text-left">
                                     <li class="dropdown">
-                                        <a href="#">Home</a>
+                                        <a href="/index.php">Home</a>
                                         <!--end dropdown container-->
                                     </li>
                                     <li class="dropdown">
