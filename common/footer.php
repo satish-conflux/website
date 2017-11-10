@@ -5,7 +5,7 @@
                             <div class="heading-block">
                                 <ul class="list-inline list--hover">
                                     <li>
-                                        <a href="#">
+                                        <a href="/our_company.php">
                                             <span>Our Company</span>
                                         </a>
                                     </li>
@@ -29,17 +29,17 @@
                             <div>
                                 <ul class="social-list list-inline list--hover">
                                     <li>
-                                        <a href="#">
+                                        <a href="https://aboutme.google.com/u/2/b/112344813971405443117/" target="_blank">
                                             <i class="socicon socicon-google icon icon--xs"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://twitter.com/finflux_" target="_blank">
                                             <i class="socicon socicon-twitter icon icon--xs"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://www.facebook.com/finflux/" target="_blank">
                                             <i class="socicon socicon-facebook icon icon--xs"></i>
                                         </a>
                                     </li>

@@ -9,11 +9,11 @@
         // $pageRobots = 'all';
          
         // Include header file
-        include('./common/header.php');
+        include('common/header.php');
     ?>
     <body class=" ">
         <a id="start"></a>
-        <?php include("./common/navbar.php"); ?>
+        <?php include("common/navbar.php"); ?>
         <div class="main-container">
             <section class="text-center">
                 <div class="container">
@@ -72,7 +72,7 @@
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="feature feature-5 boxed boxed--lg boxed--border">
-                                <i class="icon icon-Pantone icon--lg"></i>
+                                <i class="icon icon-Gear-2 icon--lg"></i>
                                 <div class="feature__body">
                                     <h5>Automated Lending</h5>
                                     <p>
@@ -84,7 +84,7 @@
                         </div>
                         <div class="col-sm-6">
                             <div class="feature feature-5 boxed boxed--lg boxed--border">
-                                <i class="icon icon-Fingerprint icon--lg"></i>
+                                <i class="icon icon-Device-SyncwithCloud icon--lg"></i>
                                 <div class="feature__body">
                                     <h5>API Enablement for Digital Banks</h5>
                                     <p>
@@ -97,7 +97,7 @@
                         <div class="col-sm-6">
                             <div class="feature feature--featured feature-5 boxed boxed--lg boxed--border">
                                 <span class="label">Demo</span>
-                                <i class="icon icon-Duplicate-Window icon--lg"></i>
+                                <i class="icon icon-Bar-Chart icon--lg"></i>
                                 <div class="feature__body">
                                     <h5>Data Analytics</h5>
                                     <p>
@@ -109,7 +109,7 @@
                         </div>
                         <div class="col-sm-6">
                             <div class="feature feature-5 boxed boxed--lg boxed--border">
-                                <i class="icon icon-Life-Safer icon--lg"></i>
+                                <i class="icon icon-Tablet-Phone icon--lg"></i>
                                 <div class="feature__body">
                                     <h5>Mobility</h5>
                                     <p>

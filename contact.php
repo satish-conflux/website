@@ -34,14 +34,19 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-5">
+                            <address>
                             <p class="lead">
                                 E:
                                 <a href="#">binny@finflux.co</a>
                                 <br /> P: +91 9015 500 500
                             </p>
                             <p class="lead">
-                                Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours on business days.
+                                <strong>Conflux Technologies Pvt Ltd </strong>   <br />
+                                #304, 2nd Floor (above Nilgiris Store)  <br />
+                                7th Main Road, HRBR Layout 1st Block    <br />
+                                Bengaluru, Karnataka 560043
                             </p>
+                            </address>
                             <p class="lead">
                                 We are open from 9am &mdash; 7pm week days.
                             </p>
