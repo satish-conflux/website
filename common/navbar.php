@@ -51,6 +51,11 @@
                                         Try Demo
                                     </span>
                                 </a>
+                                <a class="btn btn--sm type--uppercase" href="/bank_home.php">
+                                    <span class="btn__text">
+                                        F1 Bank
+                                    </span>
+                                </a>
                             </div>
                             <!--end module-->
                         </div>
