@@ -53,10 +53,11 @@
                         </div>
                         <div class="col-sm-6 col-xs-12">
                             <div class="row">
-                                <form class="form-email" data-success="Thanks for your enquiry, we'll be in touch shortly." data-error="Please fill in all fields correctly." >
+
+                                <form class="form-email" data-success="Thanks for your enquiry, we'll be in touch shortly." data-error="Please fill in all fields correctly." method="post" name="myemailform" action="form-to-email.php">
                                     <div class="col-sm-6 col-xs-12">
                                         <label>Your Name:</label>
-                                        <input type="text" name="Name" class="validate-required" />
+                                        <input type="text" name="name" class="validate-required" />
                                     </div>
                                     <div class="col-sm-6 col-xs-12">
                                         <label>Email Address:</label>
@@ -64,12 +65,13 @@
                                     </div>
                                     <div class="col-sm-12 col-xs-12">
                                         <label>Message:</label>
-                                        <textarea rows="4" name="Message" class="validate-required"></textarea>
+                                        <textarea rows="4" name="message" class="validate-required"></textarea>
                                     </div>
                                     <div class="col-sm-5 col-md-4 col-xs-6">
                                         <button type="submit" class="btn btn--primary type--uppercase">Send Enquiry</button>
                                     </div>
                                 </form>
+
                             </div>
                             <!--end of row-->
                         </div>
