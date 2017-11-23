@@ -18,6 +18,18 @@
         <!-- custom content starts-->
 
 
+            <section class="text-center cta cta-4 space--xxs border--bottom bg--dark">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <span class="label label--inline">Note!</span>
+                            <span>Finflux One is a model bank, setup to demonstrate the capabilities of Finflux platform</span>
+                        </div>
+                    </div>
+                    <!--end of row-->
+                </div>
+                <!--end of container-->
+            </section>
 
             <section>
                 <div class="container">
