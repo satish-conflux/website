@@ -15,12 +15,14 @@
         <a id="start"></a>
         <?php include("./common/navbar.php"); ?>
         <div class="main-container">
-        <!-- 
-                
-                Your page content goes here
+        <!-- Your page content starts here -->
 
 
-        -->
+
+
+
+
+        <!-- Your page content ends here -->
         <?php include("./common/footer.php"); ?>
         </div>
         <!--<div class="loader"></div>-->

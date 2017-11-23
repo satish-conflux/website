@@ -78,7 +78,7 @@
                                     <p>
                                         Developing automated, paperless systems that simplify loan processes. Building platforms that promote faster, more informed decision-making.
                                     </p>
-                                    <a href="#">Learn More</a>
+                                    <a href="/automated-lending-solution.php">Learn More</a>
                                 </div>
                             </div>
                         </div>

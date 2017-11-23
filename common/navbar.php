@@ -34,6 +34,7 @@
                         <div class="col-md-11 col-sm-12 text-right text-left-xs text-left-sm">
                             <div class="bar__module">
                                 <ul class="menu-horizontal text-left">
+                                    <!-- 
                                     <li class="dropdown">
                                         <span class="dropdown__trigger">Products</span>
                                         <div class="dropdown__container">
@@ -73,12 +74,9 @@
                                                             </li>
                                                         </ul>
                                                     </div>
-                                                    <!--end dropdown content-->
                                                 </div>
-                                                <!--end row-->
                                             </div>
                                         </div>
-                                        <!--end dropdown container-->
                                     </li>
                                     <li class="dropdown">
                                         <span class="dropdown__trigger">Industries</span>
@@ -104,7 +102,6 @@
                                                                         </a>
                                                                     </div>
                                                                 </div>
-                                                                <!--end of row-->
                                                             </div>
                                                         </div>
                                                         <div class="col-md-6 col-md-offset-6">
@@ -178,17 +175,14 @@
                                                                     </ul>
                                                                 </div>
                                                             </div>
-                                                            <!--end of row-->
+
                                                         </div>
                                                     </div>
-                                                    <!--end dropdown content-->
                                                 </div>
-                                                <!--end row-->
                                             </div>
-                                            <!--end container-->
                                         </div>
-                                        <!--end dropdown container-->
                                     </li>
+                                    -->
                                     <li class="dropdown">
                                         <a href="/contact.php">Contact Us</a>
                                         <!--end dropdown container-->
