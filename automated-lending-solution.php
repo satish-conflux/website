@@ -83,7 +83,7 @@
                         </div>
                         <div class="col-sm-6 col-md-5 col-md-offset-1">
                             <div class="switchable__text">
-                                <h2>Mechine aided
+                                <h2>Machine aided
                                     <br class="hidden-xs hidden-sm" />assessment and appraisal</h2>
                                 <p class="lead">
                                     Collate data from various sources, access to exposure status of customer, business unit and across product portfolio. Generates risk rating.
