@@ -123,7 +123,7 @@
                         </div>
                         <div class="col-sm-4">
                             <div class="feature feature-8">
-                                <img alt="Binny Gopinath" src="img/binny_gopinath.jpg" />
+                                <img alt="Binny Gopinath" src="img/binny_gopinath.png" />
                                 <h5>Binny Gopinath Sreevas</h5>
                                 <span>Partner &amp; VP, Sales &amp; Marketing</span>
                             </div>
@@ -144,14 +144,14 @@
                         </div>
                         <div class="col-sm-4">
                             <div class="feature feature-8">
-                                <img alt="Dhirendra Pratap" src="img/dhirendra_pratap.jpg" />
+                                <img alt="Dhirendra Pratap" src="img/dhirendra_pratap.png" />
                                 <h5>Dhirendra Pratap</h5>
                                 <span>Engineering Director</span>
                             </div>
                         </div>
                         <div class="col-sm-4">
                             <div class="feature feature-8">
-                                <img alt="Pramod Nuthakki" src="img/avatar-round-6.png" />
+                                <img alt="Pramod Nuthakki" src="img/pramod_nuthakki.png" />
                                 <h5>Pramod Nuthakki</h5>
                                 <span>Chief Architect</span>
                             </div>
