@@ -57,7 +57,7 @@
                         <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
                             <h2>What drives us</h2>
                             <p class="lead">
-                                Whether you’re building a welcome mat for your SaaS or a clean, corporate portfolio, Stack has your design needs covered.
+                                The challenge of greatly simplifying the real word complexities of providing comprehensive financial services to individuals and small businesses through the innovative use of technology, we aspire to foster an environment for the rapid expansion of financial inclusion around the word.
                             </p>
                         </div>
                     </div>
@@ -70,18 +70,41 @@
                     <div class="row">
                         <div class="col-sm-4">
                             <div class="feature">
-                                <h4>Inclusion</h4>
+                                <h4>Our Mission</h4>
                                 <p>
-                                    With rich modal and notification functionality and a robust suite of options, Stack makes building feature-heavy pages simple and enjoyable.
+                                    We strongly believe that every individual and businesses should have access to financial services to help them achieve their aspirations.
+                                </p>
+                                <p> 
+                                    Finflux helps NBFCs, microfinance institutions and financial innovators to deliver essential banking services to individuals and businesses around the world.
+                                </p>
+                                <p>    
+                                    We do this by providing simple and easy to use banking technology and delivered via the cloud, that's affordable and flexible for any financial institution tackling any market opportunity.
                                 </p>
                             </div>
                         </div>
                         <div class="col-sm-4">
                             <div class="feature">
-                                <h4>Ingenuity</h4>
+                                <h4>Our Values</h4>
                                 <p>
-                                    Drastically reduce the time it takes to move from initial concept to production-ready with Stack and Variant Page Builder. Your clients will love you for it!
+                                    <strong>Ownership mentality : </strong>
+                                    Every employee has the power to make our company better.
                                 </p>
+                                <p>
+                                    <strong>Don't optimize for the short term : </strong>
+                                    Short-term gains never justify long-term sacrifice. Invest in the future.
+                                </p>
+                                <p>
+                                    <strong>We are all builders : </strong>
+                                    We are collectively building the product and company of our dreams.
+                                </p>
+                                <p>    
+                                    <strong>Do what's right : </strong>
+                                    What is right isn’t the same as what is easy.
+                                </p>
+                                <p>        
+                                    <strong>Be transparent : </strong>
+                                    Share information. Share mistakes. Share victories.
+                                </p>    
                             </div>
                         </div>
                         <div class="col-sm-4">
@@ -130,7 +153,7 @@
                         </div>
                         <div class="col-sm-4">
                             <div class="feature feature-8">
-                                <img alt="Vishwasbabu AJ" src="img/vishwas.jpg" />
+                                <img alt="Vishwasbabu AJ" src="img/vishwasbabu_aj.png" />
                                 <h5>Vishwasbabu AJ</h5>
                                 <span>Co-Founder &amp; CTO</span>
                             </div>
