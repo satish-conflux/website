@@ -237,5 +237,14 @@
         </div>
         <!--<div class="loader"></div>-->
         <?php include("./common/script.php"); ?>
+
+        <script>
+          window.fcSettings = {
+            token: "7cedc6fd-8e71-4050-abd7-a2f2a0596bca",
+            host: "https://wchat.freshchat.com"
+          };
+        </script>
+        <script src="https://wchat.freshchat.com/js/widget.js" async></script>
+        
     </body>
 </html>
