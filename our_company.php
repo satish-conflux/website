@@ -134,14 +134,35 @@
                 </div>
                 <!--end of container-->
             </section>
+            <section class="space--sm unpad--bottom switchable text-center testimonial testimonial-1 bg--secondary">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6 col-md-5">
+                            <img alt="Ashok Auty" src="img/ashok-auty.png" />
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="switchable__text">
+                                <h1><strong>
+                                    Ashok Auty
+                                    </strong>
+                                </h1>
+                                <h2>Chief Executive Officer</h2>
+                                <span></span>
+                            </div>
+                        </div>
+                    </div>
+                    <!--end of row-->
+                </div>
+                <!--end of container-->
+            </section>
             <section class="text-center">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-4">
                             <div class="feature feature-8">
-                                <img alt="Ashok Auty" src="img/ashok_auty.jpg" />
-                                <h5>Ashok Auty</h5>
-                                <span>Co-Founder &amp; CEO</span>
+                                <img alt="Nayan Ambali" src="img/nayan_ambali.jpg" />
+                                <h5>Nayan Ambali</h5>
+                                <span>Co-Founder &amp; Product Lead</span>
                             </div>
                         </div>
                         <div class="col-sm-4">
@@ -160,16 +181,16 @@
                         </div>
                         <div class="col-sm-4">
                             <div class="feature feature-8">
-                                <img alt="Nayan Ambali" src="img/nayan_ambali.jpg" />
-                                <h5>Nayan Ambali</h5>
-                                <span>Co-Founder &amp; Product Lead</span>
+                                <img alt="Dhirendra Pratap" src="img/dhirendra_pratap.png" />
+                                <h5>Dhirendra Pratap</h5>
+                                <span>Engineering Director</span>
                             </div>
                         </div>
                         <div class="col-sm-4">
                             <div class="feature feature-8">
-                                <img alt="Dhirendra Pratap" src="img/dhirendra_pratap.png" />
-                                <h5>Dhirendra Pratap</h5>
-                                <span>Engineering Director</span>
+                                <img alt="Kannan A.K." src="img/kannan_ak.jpg" />
+                                <h5>Kannan A.K.</h5>
+                                <span>VP, Sales &amp; Marketing</span>
                             </div>
                         </div>
                         <div class="col-sm-4">
