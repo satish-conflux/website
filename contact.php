@@ -11,6 +11,9 @@
         // Include header file
         include('./common/header.php');
     ?>
+	<head>
+		
+	</head>
     <body class=" ">
         <a id="start"></a>
         <?php include("./common/navbar.php"); ?>
@@ -36,8 +39,7 @@
                         <div class="col-sm-5">
                             <address>
                             <p class="lead">
-                                E:
-                                <a href="#">binny@finflux.co</a>
+                                E:<a href="mailto:info@finflux.co">info@finflux.co</a>
                                 <br /> P: +91 9015 500 500
                             </p>
                             <p class="lead">
@@ -70,8 +72,11 @@
                                     <div class="col-sm-5 col-md-4 col-xs-6">
                                         <button type="submit" class="btn btn--primary type--uppercase">Send Enquiry</button>
                                     </div>
+									<!--<div class="col-sm-12 col-xs-6">
+										<div class="g-recaptcha" data-sitekey="6LekMjwUAAAAAPVjk-zkaWaEsraSXJ-NFQdOcN0P"></div>
+									</div>-->
                                 </form>
-
+								<!--<script src='https://www.google.com/recaptcha/api.js'></script>-->
                             </div>
                             <!--end of row-->
                         </div>
@@ -81,7 +86,7 @@
                 <!--end of container-->
             </section>
             <section class="unpad ">
-                <div class="map-container border--round" data-maps-api-key="AIzaSyCq0QFE0Mn_1aZwGajJVFxN4IkIDtNZeVs" data-address="123 Rathdowne street, Carlton Victoria" data-marker-title="Stack" data-map-style="[{&quot;featureType&quot;:&quot;landscape&quot;,&quot;stylers&quot;:[{&quot;hue&quot;:&quot;#FFBB00&quot;},{&quot;saturation&quot;:43.400000000000006},{&quot;lightness&quot;:37.599999999999994},{&quot;gamma&quot;:1}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;stylers&quot;:[{&quot;hue&quot;:&quot;#FFC200&quot;},{&quot;saturation&quot;:-61.8},{&quot;lightness&quot;:45.599999999999994},{&quot;gamma&quot;:1}]},{&quot;featureType&quot;:&quot;road.arterial&quot;,&quot;stylers&quot;:[{&quot;hue&quot;:&quot;#FF0300&quot;},{&quot;saturation&quot;:-100},{&quot;lightness&quot;:51.19999999999999},{&quot;gamma&quot;:1}]},{&quot;featureType&quot;:&quot;road.local&quot;,&quot;stylers&quot;:[{&quot;hue&quot;:&quot;#FF0300&quot;},{&quot;saturation&quot;:-100},{&quot;lightness&quot;:52},{&quot;gamma&quot;:1}]},{&quot;featureType&quot;:&quot;water&quot;,&quot;stylers&quot;:[{&quot;hue&quot;:&quot;#0078FF&quot;},{&quot;saturation&quot;:-13.200000000000003},{&quot;lightness&quot;:2.4000000000000057},{&quot;gamma&quot;:1}]},{&quot;featureType&quot;:&quot;poi&quot;,&quot;stylers&quot;:[{&quot;hue&quot;:&quot;#00FF6A&quot;},{&quot;saturation&quot;:-1.0989010989011234},{&quot;lightness&quot;:11.200000000000017},{&quot;gamma&quot;:1}]}]" data-map-zoom="15"></div>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d408.5990649431247!2d77.64308022618751!3d13.018386293015261!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3d9001774431%3A0x4fd11e55dc4d63bf!2sFinflux+-+Banking+Made+Easy!5e0!3m2!1sen!2sin!4v1514196227742" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
             </section>
 
 
