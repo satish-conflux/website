@@ -1062,15 +1062,22 @@ mr = (function (mr, $, window, document){
                                 mr.forms.resetForm(thisForm);
                                 mr.forms.showFormSuccess(formSuccess, formError, 1000, 5000, 500);
                                 mr.forms.captcha.resetWidgets();
-                            }
+                            }else{
+                                mr.forms.showFormSuccess(formSuccess, formError, 1000, 5000, 500);
+                                mr.forms.captcha.resetWidgets();
+							}
                         }
                         // If error text was returned, put the text in the .form-error div and show it.
                         else {
-                            // Keep the current error text in a data attribute on the form
-                            formError.attr('original-error', formError.text());
-                            // Show the error with the returned error text.
-                            formError.text(response).stop(true).fadeIn(1000);
-                            formSuccess.stop(true).fadeOut(1000);
+							if(response != undefined && response.trim().length > 0){
+								// Keep the current error text in a data attribute on the form
+								formError.attr('original-error', formError.text());
+								// Show the error with the returned error text.
+								formError.text(response).stop(true).fadeIn(1000);
+								formSuccess.stop(true).fadeOut(1000);
+							}else{
+								formSuccess.stop(true).fadeIn(1000);
+							}
                         }
                     },
                     error: function(errorObject, errorText, errorHTTP) {

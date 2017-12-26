@@ -28,6 +28,11 @@
                             </div>
                             <div>
                                 <ul class="social-list list-inline list--hover">
+									<li>
+                                        <a href="https://in.linkedin.com/company/conflux-of-open-source-technologies/" target="_blank">
+                                            <i class="socicon socicon-linkedin icon icon--xs"></i>
+                                        </a>
+                                    </li>
                                     <li>
                                         <a href="https://aboutme.google.com/u/2/b/112344813971405443117/" target="_blank">
                                             <i class="socicon socicon-google icon icon--xs"></i>
