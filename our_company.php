@@ -20,11 +20,12 @@
         <div class="main-container">
             <section class="text-center imagebg space--lg" data-overlay="3">
                 <div class="background-image-holder">
-                    <img alt="background" src="img/finflux_team.png" />
+                    <img alt="background" src="img/finflux-team.jpg" />
                 </div>
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-8 col-md-6">
+							<br><br><br><br>
                             <h1>Hi, We're Finflux</h1>
                             <p class="lead">
                                 An innovative collective of like-minded folks making useful and enduring technology products
