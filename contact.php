@@ -56,7 +56,7 @@
                         <div class="col-sm-6 col-xs-12">
                             <div class="row">
 
-                                <form class="form-email" data-success="Thanks for your enquiry, we'll be in touch shortly." data-error="Please fill in all fields correctly." method="post" name="myemailform" action="form-to-email.php">
+                                <form id="contact-form" class="form-email" data-success="Thanks for your enquiry, we'll be in touch shortly." data-error="Please fill in all fields correctly." method="post" name="myemailform" action="form-to-email.php">
                                     <div class="col-sm-6 col-xs-12">
                                         <label>Your Name:</label>
                                         <input type="text" name="name" class="validate-required" />
@@ -70,7 +70,8 @@
                                         <textarea rows="4" name="message" class="validate-required"></textarea>
                                     </div>
                                     <div class="col-sm-5 col-md-4 col-xs-6">
-                                        <button type="submit" class="btn btn--primary type--uppercase">Send Enquiry</button>
+                                        <button class="btn btn--primary type--uppercase" class="g-recaptcha" data-sitekey="6LfIxnwUAAAAADl1L-VWvYowjBJJYO5So4J7uQgv" data-callback="submitContactForm"> Send Enquiry
+                                        </button>
                                     </div>
 									<!--<div class="col-sm-12 col-xs-6">
 										<div class="g-recaptcha" data-sitekey="6LekMjwUAAAAAPVjk-zkaWaEsraSXJ-NFQdOcN0P"></div>
@@ -97,6 +98,13 @@
         <a class="back-to-top inner-link" href="#start" data-scroll-class="100vh:active">
             <i class="stack-interface stack-up-open-big"></i>
         </a>
+        <script>
+        function submitContactForm() {
+            var form = document.getElementById("contact-form");
+            form.submit();
+        }
+        </script>
+        <script src='https://www.google.com/recaptcha/api.js'></script>
         <?php include("./common/script.php"); ?>
     </body>
 </html>
