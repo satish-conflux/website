@@ -100,7 +100,20 @@
         </a>
         <script>
         function submitContactForm() {
+            var name = $("input:text[name='name']").val();
+             var email = $("input:text[name='email']").val();
+            var message = $("input#message").val();
+        var badwords = ["www", "sex", "http","hot"];
+
+    /* do this */ 
+
+        if($.inArray(name, badwords) !==-1 || $.inArray(email, badwords) !==-1 || $.inArray(subject, badwords) !==-1 || $.inArray(message, badwords) !==-1){
+                alert("Your Message Contains Bad Words, Please Remove Them Before Proceeding");
+                return false;
+            }
+
             var form = document.getElementById("contact-form");
+
             form.submit();
         }
         </script>

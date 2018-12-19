@@ -184,7 +184,7 @@
                                     </li>
                                     -->
                                     <li class="dropdown">
-                                        <a href="/contact.php">Contact Us</a>
+                                        <a href="/contactfinflux.php">Contact Us</a>
                                         <!--end dropdown container-->
                                     </li>
                                 </ul>
