@@ -29,7 +29,7 @@
                             <div>
                                 <ul class="social-list list-inline list--hover">
 									<li>
-                                        <a href="https://in.linkedin.com/company/conflux-of-open-source-technologies/" target="_blank">
+                                        <a href="https://in.linkedin.com/company/finflux-banking-platform/" target="_blank">
                                             <i class="socicon socicon-linkedin icon icon--xs"></i>
                                         </a>
                                     </li>
