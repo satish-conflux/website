@@ -11,6 +11,28 @@
         // Include header file
         include('./common/header.php');
     ?>
+    <head>
+		<style>
+			.card {
+			  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+			}
+			.cardimg {
+			  width: 265px;
+			  height: 275px;
+			}
+			.cardbottom {
+			  border: none;
+			  outline: 0;
+              display: inline-block;
+              margin-top: 6px;
+			  padding: 8px;
+			  color: white;
+			  background-color: #DCDCDC;
+			  text-align: center;
+			  width: 100%;
+			}
+		</style>
+	</head>
     <body class=" ">
         <a id="start"></a>
         <?php include("./common/navbar.php"); ?>
@@ -135,77 +157,112 @@
                 </div>
                 <!--end of container-->
             </section>
-            <section class="space--sm unpad--bottom switchable text-center testimonial testimonial-1 bg--secondary">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-6 col-md-5">
-                            <img alt="Ashok Auty" src="img/ashok-auty.png" />
-                        </div>
-                        <div class="col-sm-6">
-                            <div class="switchable__text">
-                                <h1><strong>
-                                    Ashok Auty
-                                    </strong>
-                                </h1>
-                                <h2>Chief Executive Officer</h2>
-                                <span></span>
-                            </div>
-                        </div>
-                    </div>
-                    <!--end of row-->
-                </div>
-                <!--end of container-->
-            </section>
             <section class="text-center">
                 <div class="container">
                     <div class="row">
-                        <div class="col-sm-4">
-                            <div class="feature feature-8">
-                                <img alt="Nayan Ambali" src="img/nayan_ambali.jpg" />
-                                <h5>Nayan Ambali</h5>
-                                <span>Co-Founder &amp; Product Lead</span>
-                            </div>
-                        </div>
-                        <div class="col-sm-4">
-                            <div class="feature feature-8">
-                                <img alt="Binny Gopinath" src="img/binny_gopinath.png" />
-                                <h5>Binny Gopinath Sreevas</h5>
-                                <span>Partner &amp; VP, Sales &amp; Marketing</span>
-                            </div>
-                        </div>
-                        <div class="col-sm-4">
-                            <div class="feature feature-8">
-                                <img alt="Vishwasbabu AJ" src="img/vishwasbabu_aj.png" />
-                                <h5>Vishwasbabu AJ</h5>
-                                <span>Co-Founder &amp; CTO</span>
-                            </div>
-                        </div>
-                        <div class="col-sm-4">
-                            <div class="feature feature-8">
-                                <img alt="Dhirendra Pratap" src="img/dhirendra_pratap.png" />
-                                <h5>Dhirendra Pratap</h5>
-                                <span>Engineering Director</span>
-                            </div>
-                        </div>
-                        <div class="col-sm-4">
-                            <div class="feature feature-8">
-                                <img alt="Kannan A.K." src="img/kannan_ak.jpg" />
-                                <h5>Kannan A.K.</h5>
-                                <span>VP, Sales &amp; Marketing</span>
-                            </div>
-                        </div>
-                        <div class="col-sm-4">
-                            <div class="feature feature-8">
-                                <img alt="Pramod Nuthakki" src="img/pramod_nuthakki.png" />
-                                <h5>Pramod Nuthakki</h5>
-                                <span>Chief Architect</span>
-                            </div>
-                        </div>
-                    </div>
-                    <!--end of row-->
-                </div>
-                <!--end of container-->
-            </section>
+						<div class="col-sm-3">
+							<div class="card">
+								<div class="feature">
+									<img class="cardimg" alt="Navin Kesavan" src="img/navin-kesavan.jpg" />
+									<h4>Navin Kesavan</h4>
+									<span>Chief Executive Officer</span>
+									<br/>
+									<div class="cardbottom">
+										<ul class="social-list list-inline list--hover">
+											<li>
+												<a href="https://www.linkedin.com/in/navinkesavan/ " target="_blank">
+													<i class="socicon socicon-linkedin icon icon--xs"></i>
+												</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-3">
+							<div class="card">
+								<div class="feature">
+									<img class="cardimg" alt="Ashok Auty" src="img/ashok-auty.png" />
+									<h4>Ashok Auty</h4>
+									<span>Co-Founder &amp; Cheif Technolgy Officer</span>
+									<br/>
+									<div class="cardbottom">
+										<ul class="social-list list-inline list--hover">
+											<li>
+												<a href="https://www.linkedin.com/in/ashok-auty/" target="_blank">
+													<i class="socicon socicon-linkedin icon icon--xs"></i>
+												</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+						<div class="col-sm-3">
+							<div class="card">
+								<div class="feature">
+									<img class="cardimg" alt="Nayan Ambali" src="img/nayan_ambali.jpg" />
+									<h4>Nayan Ambali</h4>
+									<span>Co-Founder &amp; Cheif Marketing Officer</span>
+									<br/>
+									<div class="cardbottom">
+										<ul class="social-list list-inline list--hover">
+											<li>
+												<a href="https://www.linkedin.com/in/nayanambali/" target="_blank">
+													<i class="socicon socicon-linkedin icon icon--xs"></i>
+												</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+						<div class="col-sm-3">
+							<div class="card">
+								<div class="feature">
+									<img class="cardimg" alt="Binny Gopinath" src="img/binny_gopinath.png" />
+									<h4>Binny Gopinath</h4>
+									<span>Partner &amp; Chief Operating Officer</span>
+									<br/>
+									<div class="cardbottom">
+										<ul class="social-list list-inline list--hover">
+											<li>
+												<a href="https://www.linkedin.com/in/binnygopinathsreevas/" target="_blank">
+													<i class="socicon socicon-linkedin icon icon--xs"></i>
+												</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+					<div class="hidden row">
+						<div class="col-sm-3">
+							<div class="card">
+								<div class="feature">
+									<img class="cardimg" alt="Team" src="img/join_our_team.png" />
+									<h4>Join our team</h4>
+									<span>&nbsp;</span><br/>
+									<p>&nbsp;</p>
+									<div class="cardbottom">
+										<ul class="social-list list-inline list--hover">
+											<li>
+												<a href="https://in.linkedin.com/company/conflux-of-open-source-technologies" target="_blank">
+													<i class="socicon socicon-linkedin icon icon--xs"></i>
+												</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
             <section class="text-center">
                 <div class="container">
                     <div class="row">
